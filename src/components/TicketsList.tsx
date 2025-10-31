@@ -59,7 +59,7 @@ const TicketsList = () => {
       timeOut: '9:30:00 AM',
     },
     {
-      id: 'TRK-001',
+      id: 'TRK-001-2',
       driver: 'John Smith',
       transport: 'ABC Transport',
       weightIn: '10,000 kg',
