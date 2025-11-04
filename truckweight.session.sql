@@ -1,0 +1,9 @@
+CREATE TABLE Tickets (
+    TicketID INT PRIMARY KEY, 
+    VehicleNo VARCHAR(20) NOT NULL,
+    Goods VARCHAR(50) NOT NULL,
+    Relation VARCHAR(50) NOT NULL,
+    Driver VARCHAR(50) NOT NULL,
+    WeightIN DECIMAL(10,2) NOT NULL,
+    WeightOUT DECIMAL(10,2) NOT NULL,
+)
